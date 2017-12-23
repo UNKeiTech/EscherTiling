@@ -2,8 +2,7 @@
 try to develop Escher's "Regular Division of the Plane" software
 
 using language
-c++
-Qt 5.9.1 (LGPL version)
+c++ & Qt 5.9.1 (LGPL version)
 
 copying and redistributing
 © 2017 The Qt Company Ltd.   Documentation contributions
