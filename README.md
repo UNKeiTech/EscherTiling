@@ -1,5 +1,5 @@
 # EscherTiling
-try to develop Escher's "Regular Division of the Plane" software
+trying to develop Escher's "Regular Division of the Plane" software
 
 using language
 c++ & Qt 5.9.1 (LGPL version)
